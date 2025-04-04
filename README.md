@@ -2,11 +2,11 @@
  
 Für die Erhebung der Terminalstandorte wurde die Karte der Studiengesellschaft für den Kombinierten Verkehr e.V. (SGKV) als Datengrundlage verwendet. Die SGKV ist ein etablierter gemeinnütziger Verein, der relevante Akteure aus Wissenschaft und Praxis im Bereich des Kombinierten Verkehrs vernetzt und bietet mit ihrer aktuellen und hochwertigen Datenbasis eine verlässliche Quelle. Die Karte ist unter folgendem Link zugänglich: http://www.intermodalmap.com/. Die Erfassung der Terminals erfolgte am 09. März 2025. Da sich die Untersuchung auf die Verkehrsverlagerung von der Straße auf die Schiene konzentriert fließen folgende Terminalkategorien in die Betrachtung ein:
 
-• Trimodal
-• Schiene / Straße
-• Weitere Umschlaganlage
-• Anlage im Bau / projektiert
-• NICHT! > Wasserstraße / Straße
+- Trimodal
+- Schiene / Straße
+- Weitere Umschlaganlage
+- Anlage im Bau / projektiert
+- ~~Wasserstraße / Straße~~
 
 KV-Terminal Isochronendarstellung Deutschland:
 
