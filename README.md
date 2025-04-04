@@ -26,3 +26,10 @@ https://martinhoblisch.github.io/KV-Terminals-Public/NUTS3_ist.html
 - NUTS-3-Darstellung aller bestehenden und geplanten Terminals
 https://martinhoblisch.github.io/KV-Terminals-Public/NUTS3_soll.html
 
+KV-Terminal Isochronendarstellung Europa:
+
+- Darstellung der Isochronen für bestehende Terminals
+https://martinhoblisch.github.io/KV-Terminals-Public/Europa_Ist.html
+
+- Darstellung der Isochronen für bestehende und geplante Terminals
+https://martinhoblisch.github.io/KV-Terminals-Public/Europa_Soll.html
