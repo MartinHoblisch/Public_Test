@@ -9,7 +9,7 @@ Für die Erhebung der Terminalstandorte wurde die Karte der Studiengesellschaft 
 - Anlage im Bau / projektiert
 - ~~Wasserstraße / Straße~~
 
-KV-Terminal Isochronendarstellung Deutschland:
+**KV-Terminal Isochronendarstellung Deutschland:**
 
 - Darstellung der Isochronen für bestehende Terminals
 https://martinhoblisch.github.io/KV-Terminals-Public/Ist.html
@@ -18,7 +18,7 @@ https://martinhoblisch.github.io/KV-Terminals-Public/Ist.html
 https://martinhoblisch.github.io/KV-Terminals-Public/Soll.html
 
 
-Prozentuale Terminalabdeckung aller Terminals in Deutschland:
+**Prozentuale Terminalabdeckung aller Terminals in Deutschland:**
 
 - NUTS-3-Darstellung aller bestehenden Terminals
 https://martinhoblisch.github.io/KV-Terminals-Public/NUTS3_ist.html
@@ -26,7 +26,7 @@ https://martinhoblisch.github.io/KV-Terminals-Public/NUTS3_ist.html
 - NUTS-3-Darstellung aller bestehenden und geplanten Terminals
 https://martinhoblisch.github.io/KV-Terminals-Public/NUTS3_soll.html
 
-KV-Terminal Isochronendarstellung Europa:
+**KV-Terminal Isochronendarstellung Europa:**
 
 - Darstellung der Isochronen für bestehende Terminals
 https://martinhoblisch.github.io/KV-Terminals-Public/Europa_Ist.html
